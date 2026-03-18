@@ -1,0 +1,11 @@
+---
+title: DORA Metrics
+author: C2L2C
+authorUrl: https://github.com/C2L2C
+category: Monitoring
+description: Displays DORA metrics (Deployment Frequency, Lead Time, Change Failure Rate, MTTR) for catalog entities via the GitHub API. Supports multiple environments and trend history.
+documentation: https://github.com/C2L2C/backstage-plugin-dora-metrics#readme
+iconUrl: https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-2.svg
+npmPackageName: '@c2l2c/backstage-plugin-dora-metrics'
+addedDate: '2026-03-18'
+status: active
